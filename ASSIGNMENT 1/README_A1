@@ -1,0 +1,21 @@
+Program Author: 
+
+    VIKRANT KUMAR 101195442
+
+Purpose: 
+
+    This program encrypts plaintext to ciphertext and decrypts ciphertext to plaintext using a secret key. It will help in perventing eneimes from  easily cracking encrypted messages.
+
+header files (if any):
+
+    stdio.h
+    string.h
+    
+source file: 
+
+    a1-posted.c
+
+To compile and launch: 
+
+    1. type "gcc -o a1-posted a1-posted.c" and enter
+    2. type "./a1-posted" and enter

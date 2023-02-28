@@ -1,0 +1,27 @@
+Program Author: 
+
+    VIKRANT KUMAR 101195442
+
+Purpose: 
+
+    This program allows the user to build a schedule for courses offered in fall 2021 and winter 2022 terms. 
+
+header files (if any):
+
+    #include <stdio.h>
+    #include <stdlib.h>
+    #include <string.h>
+    #include "defs.h"
+    
+source file: 
+
+    main.c
+    init.c
+    arrays.c
+    sched.c
+    util.c
+
+To compile and launch: 
+
+    1. type "gcc -o a2 main.c init.c arrays.c sched.c util.c" and enter
+    2. type "./a2 main.c init.c arrays.c sched.c util.c" and enter

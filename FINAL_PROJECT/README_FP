@@ -1,0 +1,34 @@
+Program Author: 
+
+    VIKRANT KUMAR 101195442
+
+Purpose: 
+
+    This program allows the user to simulate scenarios and fights between pirates and heros. Once the simulation ends, it will print the results in percentage of successful, partially successful, and  failed runs of each scenario over the number of runs.
+
+header files (if any):
+
+    #include <stdio.h>
+    #include <stdlib.h>
+    #include <string.h>
+    #include <time.h>
+    #include <math.h>
+    #include <unistd.h>
+    #include <pthread.h>
+    #include <semaphore.h>
+    #include "defs.h"
+    
+source file: 
+
+    main.c
+    deque.c
+    fight.c
+    run.c
+
+Makefile:
+    Makefile
+
+To compile and launch: 
+
+    1. in terminal type "make" and enter
+    2. then in terminal type "./main" or "./main #" and enter

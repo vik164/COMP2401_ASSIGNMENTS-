@@ -1,0 +1,31 @@
+Program Author: 
+
+    VIKRANT KUMAR 101195442
+
+Purpose: 
+
+    This program allows the clinic manage and make new appointments schedule for there pets. 
+
+header files (if any):
+
+    #include <stdio.h>
+    #include <stdlib.h>
+    #include <string.h>
+    #include "defs.h"
+    
+source file: 
+
+    main.c
+    init.c
+    animals.c
+    sched.c
+    customers.c
+    clinic.c
+
+Makefile:
+    Makefile
+
+To compile and launch: 
+
+    1. type "make" and enter
+    2. type "./a3" and enter

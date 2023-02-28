@@ -1,0 +1,38 @@
+Program Author: 
+
+    VIKRANT KUMAR 101195442
+
+Purpose: 
+
+    This program allows the user to sign in and sign out books at a library.
+
+header files (if any):
+
+    #include <stdio.h>
+    #include <stdlib.h>
+    #include <string.h>
+    #include <unistd.h>
+    #include <signal.h>
+    #include <sys/types.h>
+    #include <sys/socket.h>
+    #include <netinet/in.h>
+    #include <arpa/inet.h>
+    #include "defs.h"
+    
+source file: 
+
+    client.c
+    server.c
+    connect.c
+    books.c
+    lib.c
+
+Makefile:
+    Makefile
+
+To compile and launch: 
+
+    1. in first terminal type "make" and enter
+    2. then in first terminal type "./server&" and enter
+    3. in second terminal type "make" and enter
+    4. then in second terminal type "./client" and enter
